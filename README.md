@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/nkishore2210/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707090/9d46bd16-58a2-484a-a489-ded15fb0bb93)
+![image](https://github.com/nkishore2210/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707090/3d6ff045-b635-4edd-b410-af7af3dc809b)
+![image](https://github.com/nkishore2210/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707090/c285d349-6999-4cc4-a141-ee74a433613e)
+
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
